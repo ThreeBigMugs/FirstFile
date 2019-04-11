@@ -1,0 +1,13 @@
+C:\Users\Андрій\source\repos\GitUserTask\GitUserTask\bin\Debug\GitUserTask.exe.config
+C:\Users\Андрій\source\repos\GitUserTask\GitUserTask\bin\Debug\GitUserTask.exe
+C:\Users\Андрій\source\repos\GitUserTask\GitUserTask\bin\Debug\GitUserTask.pdb
+C:\Users\Андрій\source\repos\GitUserTask\GitUserTask\bin\Debug\EntityFramework.dll
+C:\Users\Андрій\source\repos\GitUserTask\GitUserTask\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Андрій\source\repos\GitUserTask\GitUserTask\bin\Debug\EntityFramework.xml
+C:\Users\Андрій\source\repos\GitUserTask\GitUserTask\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Андрій\source\repos\GitUserTask\GitUserTask\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Андрій\source\repos\GitUserTask\GitUserTask\obj\Debug\GitUserTask.csproj.CoreCompileInputs.cache
+C:\Users\Андрій\source\repos\GitUserTask\GitUserTask\obj\Debug\GitUserTask.csproj.CopyComplete
+C:\Users\Андрій\source\repos\GitUserTask\GitUserTask\obj\Debug\GitUserTask.exe
+C:\Users\Андрій\source\repos\GitUserTask\GitUserTask\obj\Debug\GitUserTask.pdb
+C:\Users\Андрій\source\repos\GitUserTask\GitUserTask\obj\Debug\GitUserTask.csprojAssemblyReference.cache
